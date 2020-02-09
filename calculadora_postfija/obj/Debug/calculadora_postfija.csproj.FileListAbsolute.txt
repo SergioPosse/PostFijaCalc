@@ -1,0 +1,35 @@
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe.config
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.pdb
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Properties.Resources.resources
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csproj.GenerateResource.Cache
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.exe
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.pdb
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Form1.resources
+E:\CalculadoraPostfija\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csprojResolveAssemblyReference.cache
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe.config
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.exe
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.pdb
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.pdb
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csprojResolveAssemblyReference.cache
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Form1.resources
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Properties.Resources.resources
+D:\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csproj.GenerateResource.Cache
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe.config
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.exe
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.pdb
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.pdb
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csprojResolveAssemblyReference.cache
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Form1.resources
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Properties.Resources.resources
+E:\posse.net\sergio posse - calculadora notacion polaca - c sharp - visual studio 2013\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csproj.GenerateResource.Cache
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe.config
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.exe
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.pdb
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.exe
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\bin\Debug\calculadora_postfija.pdb
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Form1.resources
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.Properties.Resources.resources
+E:\02 - Calculadora notacion polaca - Sergio Posse - Matematica Aplicada\CalculadoraPostfija2\calculadora_postfija\calculadora_postfija\obj\Debug\calculadora_postfija.csproj.GenerateResource.Cache
